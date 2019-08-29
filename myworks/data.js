@@ -1,0 +1,1 @@
+var myData={designer:{name:'Seven',phone:'13061373917',tag:["UI"],bg:'#1e2025'},gallery:[{src:"myworks/005.png",w:512,h:512},{src:"myworks/004.png",w:1440,h:900},{src:"myworks/003.png",w:900,h:2394},{src:"myworks/001.png",w:1440,h:900},{src:"myworks/002.png",w:1440,h:900},{src:"myworks/006.png",w:1440,h:900},{src:"myworks/007.png",w:712,h:3036},]}
