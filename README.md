@@ -24,9 +24,8 @@
 -->
 不需要一行代码，快速（最快5分钟）创建一个属于自己的作品网站。ArtOnWeb是一个静态网站，但通过javascript实现了资源的动态加载，即便你拥有大量的作品，也不会影响网站打开的速度。
 
-## 样例:  
-https://bingxueling.github.io/ArtOnWeb/  
-http://www.wulihub.com.cn/go/qgMrpQ/index.html  
+## Github Page:  
+[徐娜作品集](https://lee84233.github.io/seven-ui/)
 
 ## 如何使用:  
 1. 下载项目源码并解压。
